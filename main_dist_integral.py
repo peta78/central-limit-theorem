@@ -2,10 +2,10 @@ import numpy as np
 import random
 import matplotlib.pyplot as plt
 
-N = 2000
+N = 5000
 NN = N+0.0
 
-M = 7
+M = 10
 
 x_base = np.array([i / NN for i in range(N)])
 t = [1.0 +(i+1.0)/(N+0.0) for i in range(N)]
