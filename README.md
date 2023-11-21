@@ -14,7 +14,7 @@ And it gets trippier - input can have any shape, not only uniform distribution, 
 
 ![fig2](./images/example02.png)
 
-Or you can verify it through integrating over base distribution (main_dist_integral.py)
+Or you can verify it through integrating over base distribution multiple times to see that it converges to Gaussian (main_dist_integral.py)
 
 ![fig3](./images/example03_dist_integ.png)
 
