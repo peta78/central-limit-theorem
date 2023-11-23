@@ -18,7 +18,7 @@ Or you can verify it through integrating over base distribution multiple times t
 
 ![fig3](./images/example03_dist_integ.png)
 
-And one more example with integrating over base function verification:
+And one more example with integrating over base distribution verification:
 
 ![fig4](./images/example04_dist_integ.png)
 
