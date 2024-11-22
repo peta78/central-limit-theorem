@@ -22,4 +22,8 @@ And one more example with integrating over base distribution verification:
 
 ![fig4](./images/example04_dist_integ.png)
 
+## References
+
+[The Doctrine of Chances](https://en.wikipedia.org/wiki/The_Doctrine_of_Chances)
+
 Hans Fischer: [A History of the Central Limit Theorem](https://link.springer.com/book/10.1007/978-0-387-87857-7)
