@@ -2,6 +2,8 @@
 
 Or as I call it - "Unexpected emergence of Gaussians out of everywhere :)" (main.py)
 
+I also consider it as the most beautiful, elegant and mind boggling math invention ever.
+
 Left - Input (pdf) - [Continuous uniform distribution](https://en.wikipedia.org/wiki/Continuous_uniform_distribution)
 
 Right - Output (pdf) - You take many of them (sequencies) and compute their averages, and those averages form a [Gaussian / Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution):
